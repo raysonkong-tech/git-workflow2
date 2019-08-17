@@ -8,4 +8,4 @@ remote chagne to cause conflict
 
  3rd conflict resolved , not 4th. 
 
- edited on master
+ - resolved local conflict bwtween merge-conflict-branch and master
