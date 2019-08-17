@@ -6,4 +6,4 @@ remote chagne to cause conflict
 
  Resolved conflict second time
 
-remote 4rd conflict
+ 3rd conflict resolved , not 4th. 
