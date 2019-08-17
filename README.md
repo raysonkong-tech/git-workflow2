@@ -7,3 +7,5 @@ remote chagne to cause conflict
  Resolved conflict second time
 
  3rd conflict resolved , not 4th. 
+
+ - edited on merge-conflict-branch 
